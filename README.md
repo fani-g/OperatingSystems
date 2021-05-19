@@ -1,2 +1,2 @@
 # OperatingSystems
-Experimenting with virtual machines that runs Linux
+Experimenting with Oracle VM VirtualBox.
